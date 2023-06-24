@@ -3,7 +3,8 @@
 
 - 🔭 Atualmente trabalhando com Back-end
 - 🌱 Estudando Front-end (HTML5, CSS3 e JavaScript)
-- 🎲 Aprimorando habilidades em modelagem e desenvolvimento de banco de dados
+- 🎓 Técnico em Desenvolvimento de Sistemas
+- 👨‍💻 Cursando Ciência da Computação
 
 <div style="display = inline_block">
   <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=KaickTauil&show_icons=true&theme=radical">
