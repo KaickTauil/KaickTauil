@@ -6,8 +6,8 @@
 - 🎲 Aprimorando habilidades em modelagem e desenvolvimento de banco de dados
 
 <div style="display = inline_block">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KaickTauil&show_icons=true&theme=radical">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaickTauil&layout=compact&theme=radical">
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=KaickTauil&show_icons=true&theme=radical">
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaickTauil&layout=compact&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
