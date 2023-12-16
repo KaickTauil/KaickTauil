@@ -1,7 +1,7 @@
 ## Opa! Sou Kaick Tauil
 
 
-- 🔭 Atualmente trabalhando com Back-end
+- 🔭 Atualmente trabalhando com Back-end e Database
 - 🌱 Estudando Front-end (HTML5, CSS3 e JavaScript)
 - 🎓 Técnico em Desenvolvimento de Sistemas
 - 👨‍💻 Cursando Ciência da Computação
