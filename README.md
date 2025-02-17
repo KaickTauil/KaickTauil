@@ -1,10 +1,9 @@
 ## Opa! Sou Kaick Tauil
 
 
-- 🔭 Atualmente trabalhando com Back-end e Database
-- 🌱 Estudando Front-end (HTML5, CSS3 e JavaScript)
+- 🌱 Estudando Python
 - 🎓 Técnico em Desenvolvimento de Sistemas
-- 👨‍💻 Cursando Ciência da Computação
+- 👨‍💻 Cursando Ciência da Computação e Física
 
 <div style="display = inline_block">
   <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=KaickTauil&show_icons=true&theme=radical">
