@@ -20,10 +20,8 @@
   <img align="center" alt="Kaick-Dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
 </div>
 
-##
-
 <div> 
   <a href = "mailto:kaicktauil6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaick-tauil-gallotte-61561623b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/qr/Z3QUECVTLZQAD1" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
+  <a href = "[https://wa.me/qr/Z3QUECVTLZQAD1](http://lattes.cnpq.br/8292823790211808)" target="_blank"> <img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://asc.uem.br/images/2022/destaque-curriculo-lattes.png)" target="_blank"> </a>
 </div>
