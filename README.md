@@ -25,5 +25,5 @@
 <div> 
   <a href = "mailto:kaicktauil6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaick-tauil-gallotte-61561623b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "http://lattes.cnpq.br/8292823790211808" target="_blank"> <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-black?style=flat-square&logo=academia&logoColor=%23f2f2f2&labelColor=navy&color=%23f2f2f2" target="_blank"> </a>
+  <a href = "http://lattes.cnpq.br/8292823790211808" target="_blank"> <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-%2300008b?style=for-the-badge&logo=academia&logoColor=%23f2f2f2&labelColor=midnightblue&color=midnightblue" target="_blank"> </a>
 </div>
