@@ -5,10 +5,12 @@
 - 🎓 Técnico em Desenvolvimento de Sistemas
 - 👨‍💻 Cursando Ciência da Computação e Física
 
-<div style="display = inline_block">
-  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=KaickTauil&show_icons=true&theme=radical">
-  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaickTauil&layout=compact&theme=radical">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaickTauil&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaickTauil&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaickTauil&theme=radical" />
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
