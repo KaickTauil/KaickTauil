@@ -1,9 +1,9 @@
-## Opa! Sou Kaick Tauil
+  ## Opa! Sou Kaick Tauil
 
 
-- 🌱 Estudando Python
-- 🎓 Técnico em Desenvolvimento de Sistemas
-- 👨‍💻 Cursando Ciência da Computação e Física
+  - 🌱 Estudando Python
+  - 🎓 Técnico em Desenvolvimento de Sistemas
+  - 👨‍💻 Cursando Ciência da Computação e Física
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaickTauil&theme=dark" />
